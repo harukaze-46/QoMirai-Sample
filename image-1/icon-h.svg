@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name=" レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.75 141.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #92c7cf;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fcfdfd;
+      }
+
+      .cls-3 {
+        font-family: Arial-Black, 'Arial Black';
+        font-size: 19px;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="70.87" cy="70.88" r="70.87"/>
+  <g>
+    <path class="cls-2" d="M44.79,43.27c-1.04,0-1.96-.41-2.64-1.09-.68-.68-1.09-1.6-1.09-2.64,0-1.04.41-1.96,1.09-2.64.68-.68,1.6-1.09,2.64-1.09h58.32s0-4.83,0-4.83h-58.32c-4.73,0-8.57,3.84-8.57,8.57v69.08c0,4.73,3.84,8.57,8.57,8.57h60.74V43.27h-60.74ZM100.69,112.35h-55.9c-2.06,0-3.73-1.67-3.73-3.73v-61.37c1.13.55,2.39.87,3.73.87h55.9v64.24h0Z"/>
+    <text class="cls-3" transform="translate(44.41 83.78)"><tspan x="0" y="0">MBTI</tspan></text>
+  </g>
+</svg>
